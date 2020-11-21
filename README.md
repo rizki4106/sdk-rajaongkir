@@ -13,3 +13,13 @@ async function getData(){
     console.log(res)
 }
 ```
+atau
+
+```javascript
+const {Resi} = require('sdk-rajaongkir')
+
+async function getData(){
+    const req = await Resi(URL, API_KEY, NOMOR_RESI, KURIR)
+    console.log(req)
+}
+```
