@@ -1,0 +1,28 @@
+{
+  "name": "sdk-rajaongkir",
+  "version": "1.0.0",
+  "description": "make request to rajaongkir's api easly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizki4106/sdk-rajaongkir.git"
+  },
+  "keywords": [
+    "rajaongkir",
+    "ongkir",
+    "ecommerce",
+    "js"
+  ],
+  "author": "rizkimaulana4106@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rizki4106/sdk-rajaongkir/issues"
+  },
+  "homepage": "https://github.com/rizki4106/sdk-rajaongkir#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
